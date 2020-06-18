@@ -28,7 +28,6 @@ class App extends Component {
       <div className="App">
         <header className="App-header">          
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Testing Heroku Deployment</h2>
           <img src={imageURL} alt="Random Dog" />
         </header>
         <main className="App-main">
