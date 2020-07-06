@@ -28,7 +28,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">          
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>Random Dog - Refresh for a new image</h1>
+          <h2>Random Dog - Refresh for a new image</h2>
           <img src={imageURL} alt="Random Dog" />
         </header>
         <main className="App-main">
